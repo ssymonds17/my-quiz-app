@@ -1,0 +1,127 @@
+[
+ {
+  "label": "Which country has won the most World Cups with 5?",
+  "choices": [
+   {
+    "value": "Argentina",
+    "correct": false
+   },
+   {
+    "value": "Germany",
+    "correct": false
+   },
+   {
+    "value": "France",
+    "correct": false
+   },
+   {
+    "value": "England",
+    "correct": false
+   },
+   {
+    "value": "Brazil",
+    "correct": true
+   }
+  ]
+ },
+ {
+  "label": "Which player is the all time leader in goals with 16?",
+  "choices": [
+   {
+    "value": "Ronaldo",
+    "correct": false
+   },
+   {
+    "value": "Pele",
+    "correct": false
+   },
+   {
+    "value": "Miroslav Klose",
+    "correct": true
+   },
+   {
+    "value": "Gerd Muller",
+    "correct": false
+   },
+   {
+    "value": "Gary Lineker",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player holds the record for most goals in a single tournement with 13?",
+  "choices": [
+   {
+    "value": "Garrincha",
+    "correct": false
+   },
+   {
+    "value": "Just Fontaine",
+    "correct": true
+   },
+   {
+    "value": "Eusebio",
+    "correct": false
+   },
+   {
+    "value": "Sandor Kocsis",
+    "correct": false
+   },
+   {
+    "value": "Harry Kane",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player is the all time leader in appearances with 25?",
+  "choices": [
+   {
+    "value": "Lothar Matthaus",
+    "correct": true
+   },
+   {
+    "value": "Paulo Maldini",
+    "correct": false
+   },
+   {
+    "value": "Cafu",
+    "correct": false
+   },
+   {
+    "value": "Diego Maradona",
+    "correct": false
+   },
+   {
+    "value": "Philipp Lahm",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player has won the most World Cups with 3?",
+  "choices": [
+   {
+    "value": "Cafu",
+    "correct": false
+   },
+   {
+    "value": "Bellini",
+    "correct": false
+   },
+   {
+    "value": "Pele",
+    "correct": true
+   },
+   {
+    "value": "Ronaldo",
+    "correct": false
+   },
+   {
+    "value": "Garrincha",
+    "correct": false
+   }
+  ]
+ }
+]

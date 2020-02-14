@@ -1,0 +1,32 @@
+[
+ {
+  "label": "NBA",
+  "name": "nba",
+  "description": "Quiz on the NBA",
+  "fileName": "nba.json"
+ },
+ {
+  "label": "MLB",
+  "name": "mlb",
+  "description": "Quiz on the MLB",
+  "fileName": "mlb.json"
+ },
+ {
+  "label": "UEFA Champions League",
+  "name": "championsleague",
+  "description": "Quiz on the Champions League",
+  "fileName": "championsleague.json"
+ },
+ {
+  "label": "English Premier League",
+  "name": "premierleague",
+  "description": "Quiz on the Premier League",
+  "fileName": "premierleague.json"
+ },
+ {
+  "label": "World Cup",
+  "name": "worldcup",
+  "description": "Quiz on the World Cup",
+  "fileName": "worldcup.json"
+ }
+]

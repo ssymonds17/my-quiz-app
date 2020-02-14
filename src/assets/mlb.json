@@ -1,0 +1,127 @@
+[
+ {
+  "label": "Which player is the all time leader in home runs with 762?",
+  "choices": [
+   {
+    "value": "Babe Ruth",
+    "correct": false
+   },
+   {
+    "value": "Ted Williams",
+    "correct": false
+   },
+   {
+    "value": "Willie Mays",
+    "correct": false
+   },
+   {
+    "value": "Alex Rodriguez",
+    "correct": false
+   },
+   {
+    "value": "Barry Bonds",
+    "correct": true
+   }
+  ]
+ },
+ {
+  "label": "Which player is the all time leader in hits with 4256?",
+  "choices": [
+   {
+    "value": "Hank Aaron",
+    "correct": false
+   },
+   {
+    "value": "Pete Rose",
+    "correct": true
+   },
+   {
+    "value": "Ty Cobb",
+    "correct": false
+   },
+   {
+    "value": "Derek Jeter",
+    "correct": false
+   },
+   {
+    "value": "Stan Musial",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player is the all time leader in batting average with .3662?",
+  "choices": [
+   {
+    "value": "Rogers Hornsby",
+    "correct": false
+   },
+   {
+    "value": "Joe Jackson",
+    "correct": false
+   },
+   {
+    "value": "Ty Cobb",
+    "correct": true
+   },
+   {
+    "value": "Tris Speaker",
+    "correct": false
+   },
+   {
+    "value": "Ted Williams",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player has won the most World Series wins with 10?",
+  "choices": [
+   {
+    "value": "Yogi Berra",
+    "correct": true
+   },
+   {
+    "value": "Babe Ruth",
+    "correct": false
+   },
+   {
+    "value": "Mickey Mantle",
+    "correct": false
+   },
+   {
+    "value": "Joe DiMaggio",
+    "correct": false
+   },
+   {
+    "value": "Bill Dickey",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which team has won the most World Series with 27?",
+  "choices": [
+   {
+    "value": "Boston Red Sox",
+    "correct": false
+   },
+   {
+    "value": "St Louis Cardinals",
+    "correct": false
+   },
+   {
+    "value": "New York Yankees",
+    "correct": true
+   },
+   {
+    "value": "Los Angeles Dodgers",
+    "correct": false
+   },
+   {
+    "value": "San Francisco Giants",
+    "correct": false
+   }
+  ]
+ }
+]

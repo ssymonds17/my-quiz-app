@@ -1,0 +1,28 @@
+.answer {
+ background-color: red;
+ width: auto;
+ text-align: center;
+ margin: auto;
+ margin-bottom: 7px;
+ margin-top: 7px;
+ font-size: 20px;
+ border-radius: 25px;
+}
+
+.correct {
+ background-color: green;
+}
+
+.results-body{
+ width: 50%;
+ margin: auto;
+ text-align: center;
+}
+
+.results-header {
+ width: 90%;
+ margin: auto;
+ text-align: center;
+ box-shadow: none;
+ font-size: 40px;
+}

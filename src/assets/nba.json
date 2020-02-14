@@ -1,0 +1,152 @@
+[
+ {
+  "label": "Which player is the all time leader in regular season points with 38387?",
+  "choices": [
+   {
+    "value": "Michael Jordan",
+    "correct": false
+   },
+   {
+    "value": "Karl Malone",
+    "correct": false
+   },
+   {
+    "value": "Lebron James",
+    "correct": false
+   },
+   {
+    "value": "Kobe Bryant",
+    "correct": false
+   },
+   {
+    "value": "Kareem Abdul-Jabbar",
+    "correct": true
+   }
+  ]
+ },
+ {
+  "label": "Which player is the all time leader in regular season rebounds with 23924?",
+  "choices": [
+   {
+    "value": "Bill Russell",
+    "correct": false
+   },
+   {
+    "value": "Wilt Chamberlain",
+    "correct": true
+   },
+   {
+    "value": "Dennis Rodman",
+    "correct": false
+   },
+   {
+    "value": "Shaquille O'Neal",
+    "correct": false
+   },
+   {
+    "value": "Charles Barkley",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player is the all time leader in regular season assists with 15806?",
+  "choices": [
+   {
+    "value": "Steve Nash",
+    "correct": false
+   },
+   {
+    "value": "Magic Johnson",
+    "correct": false
+   },
+   {
+    "value": "John Stockton",
+    "correct": true
+   },
+   {
+    "value": "Chris Paul",
+    "correct": false
+   },
+   {
+    "value": "Jason Kidd",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player has won the most NBA Championships with 11?",
+  "choices": [
+   {
+    "value": "Bill Russell",
+    "correct": true
+   },
+   {
+    "value": "Michael Jordan",
+    "correct": false
+   },
+   {
+    "value": "Jerry West",
+    "correct": false
+   },
+   {
+    "value": "Wilt Chamberlain",
+    "correct": false
+   },
+   {
+    "value": "Larry Bird",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player has won the most regular season MVP awards with 6?",
+  "choices": [
+   {
+    "value": "Bill Russell",
+    "correct": false
+   },
+   {
+    "value": "Michael Jordan",
+    "correct": false
+   },
+   {
+    "value": "Kareem Abdul-Jabbar",
+    "correct": true
+   },
+   {
+    "value": "Wilt Chamberlain",
+    "correct": false
+   },
+   {
+    "value": "Lebron James",
+    "correct": false
+   }
+  ]
+ },
+ {
+  "label": "Which player has won the most Finals MVP awards with 6?",
+  "choices": [
+   {
+    "value": "Michael Jordan",
+    "correct": true
+   },
+   {
+    "value": "Kobe Bryant",
+    "correct": false
+   },
+   {
+    "value": "Lebron James",
+    "correct": false
+   },
+   {
+    "value": "Robert Horry",
+    "correct": false
+   },
+   {
+    "value": "Magic Johnson",
+    "correct": false
+   }
+  ]
+ }
+]
